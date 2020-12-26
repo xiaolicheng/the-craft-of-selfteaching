@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 """
 Support Eiffel-style preconditions and postconditions for functions.
